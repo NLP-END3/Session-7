@@ -11,7 +11,7 @@ Existing metrics for Natural Language Generation can be broadly categorized into
 
 ![image](https://user-images.githubusercontent.com/30425824/145586623-d53d1269-9e3e-4da4-a11f-b29ef2ad5932.png)
 
-from code   
+***from code***   
 ![image](https://user-images.githubusercontent.com/30425824/145595575-50c38bf4-2ebe-417b-bf76-c3bd4af6a7e8.png)
 
 
