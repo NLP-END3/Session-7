@@ -46,3 +46,8 @@ BLEU (STRING MATCHING) and METEOR (HEURISTICS MATCHING) give higher score to Pre
 Fail to capture distant dependencies and penalize semantically critical ordering changes For example, given a small window of size two, BLEU will only mildly penalize swapping of cause and effect clauses (e.g. A because B instead of B because A), especially when the arguments A and B are long phrases.
 
 BERTSCORE with the contextualized embeddings can take care of: a) paraphrasing and b) effectively capture distant dependencies and ordering
+
+## Exceptions from results in Code ##
+a. BertScore
+![image](https://user-images.githubusercontent.com/30425824/145590687-84e18d6a-7792-44f3-9b81-91d601a6ba6e.png)
+![image](https://user-images.githubusercontent.com/30425824/145590805-9a6e4c4b-23f8-4757-aeb4-0ba70166395d.png)
